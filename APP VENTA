@@ -1,0 +1,3 @@
+cd repu-market-demo
+npm install
+npm run dev
